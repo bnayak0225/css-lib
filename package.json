@@ -1,0 +1,7 @@
+{
+  "name": "css-layout",
+  "version": "1.0.0",
+  "dependencies": {
+    "sass": "^1.54.5"
+  }
+}
